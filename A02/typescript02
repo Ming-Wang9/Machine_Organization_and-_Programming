@@ -1,0 +1,8 @@
+Script started on 2024-02-02 15:23:43-06:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h[mingw@royal-08] (1)$ [7mgcc simple_sequence.c -Wall -m32 -std=gnu99 -o simple_sequ[27m[7me[27m[7mnce[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc simple_sequence.c -Wall -m32 -std=gnu99 -o simple_sequence
+[?2004l[?2004h[mingw@royal-08] (2)$ [7m./simple_sequence[27m./simple_sequence
+[?2004l1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+[?2004h[mingw@royal-08] (3)$ exit
+[?2004lexit
+
+Script done on 2024-02-02 15:24:12-06:00 [COMMAND_EXIT_CODE="0"]
